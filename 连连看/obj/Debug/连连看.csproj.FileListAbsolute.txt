@@ -1,0 +1,30 @@
+c:\users\dell\documents\visual studio 2013\Projects\连连看\连连看\bin\Debug\连连看.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\连连看\连连看\bin\Debug\连连看.exe
+c:\users\dell\documents\visual studio 2013\Projects\连连看\连连看\bin\Debug\连连看.pdb
+c:\users\dell\documents\visual studio 2013\Projects\连连看\连连看\obj\Debug\连连看.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\连连看\连连看\obj\Debug\连连看.Form1.resources
+c:\users\dell\documents\visual studio 2013\Projects\连连看\连连看\obj\Debug\连连看.images.resources
+c:\users\dell\documents\visual studio 2013\Projects\连连看\连连看\obj\Debug\连连看.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\连连看\连连看\obj\Debug\连连看.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\连连看\连连看\obj\Debug\连连看.exe
+c:\users\dell\documents\visual studio 2013\Projects\连连看\连连看\obj\Debug\连连看.pdb
+C:\Users\Administrator\Desktop\连连看\连连看\bin\Debug\连连看.exe.config
+C:\Users\Administrator\Desktop\连连看\连连看\obj\Debug\连连看.exe
+C:\Users\Administrator\Desktop\连连看\连连看\obj\Debug\连连看.pdb
+C:\Users\Administrator\Desktop\连连看\连连看\bin\Debug\连连看.exe
+C:\Users\Administrator\Desktop\连连看\连连看\bin\Debug\连连看.pdb
+C:\Users\Administrator\Desktop\连连看\连连看\obj\Debug\连连看.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\连连看\连连看\obj\Debug\连连看.Form1.resources
+C:\Users\Administrator\Desktop\连连看\连连看\obj\Debug\连连看.images.resources
+C:\Users\Administrator\Desktop\连连看\连连看\obj\Debug\连连看.Properties.Resources.resources
+C:\Users\Administrator\Desktop\连连看\连连看\obj\Debug\连连看.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\连连看\连连看\bin\Debug\连连看.exe.config
+C:\Users\DELL\Desktop\连连看\连连看\obj\Debug\连连看.exe
+C:\Users\DELL\Desktop\连连看\连连看\obj\Debug\连连看.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\连连看\连连看\obj\Debug\连连看.Form1.resources
+C:\Users\DELL\Desktop\连连看\连连看\obj\Debug\连连看.images.resources
+C:\Users\DELL\Desktop\连连看\连连看\obj\Debug\连连看.Properties.Resources.resources
+C:\Users\DELL\Desktop\连连看\连连看\obj\Debug\连连看.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\连连看\连连看\bin\Debug\连连看.exe
+C:\Users\DELL\Desktop\连连看\连连看\bin\Debug\连连看.pdb
+C:\Users\DELL\Desktop\连连看\连连看\obj\Debug\连连看.pdb
